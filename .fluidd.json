@@ -1,0 +1,1 @@
+{"general":{"instanceName":"Sovol SV01","darkMode":true,"printTimeEstimationsType":"file","defaultExtrudeLength":10,"defaultExtrudeSpeed":5,"defaultToolheadMoveLength":"1.0"},"camera":{"enabled":true,"url":"http://raspi41:8080/?action=stream","flipX":false,"flipY":false},"dashboard":{"hiddenMacros":["m205","m201","m203","END_PRINT","START_PRINT"]}}
