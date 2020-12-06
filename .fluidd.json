@@ -1,0 +1,1 @@
+{"general":{"instanceName":"Ender 3 Pro","darkMode":true,"printTimeEstimationsType":"file","defaultExtrudeLength":10,"defaultExtrudeSpeed":5,"defaultToolheadMoveLength":"1.0"},"camera":{"enabled":true,"url":"http://octoender:8080/?action=stream","flipX":false,"flipY":false},"dashboard":{"hiddenMacros":["END_PRINT","m205","m201","START_PRINT","m203"]}}
