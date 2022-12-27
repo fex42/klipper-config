@@ -3,3 +3,4 @@ printer-2*.cfg
 .mainsail.json
 printer.cfg.skr13
 printer.cfg.original-board
+*.conf.bkp
