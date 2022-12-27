@@ -4,3 +4,4 @@ printer-2*.cfg
 printer.cfg.skr13
 printer.cfg.original-board
 *.conf.bkp
+*.backup
