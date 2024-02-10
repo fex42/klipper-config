@@ -1,3 +1,5 @@
 *.log
 printer-20*.cfg
 .mainsail.json
+*.bkp
+.moonraker.conf.bkp
